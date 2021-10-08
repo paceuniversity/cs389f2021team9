@@ -3,6 +3,7 @@
 **App name** Pace Map v1.0
 
 **Team** 9   Jiayue Ma (only member)
+             https://github.com/JiayueMa/cs389/tree/main/project
 
 **App description**  A detail map at Pace University (NYC)
 
