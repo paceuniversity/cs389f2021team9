@@ -2,7 +2,7 @@
 
 **App name** Pace Map v1.0
 
-**Team** 9
+**Team** 9   Jiayue Ma (only member)
 
 **App description**  A detail map at Pace University (NYC)
 
