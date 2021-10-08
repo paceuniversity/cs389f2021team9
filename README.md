@@ -8,13 +8,26 @@
 **App description**  A detail map at Pace University (NYC)
 
 **Idea Proposal**    For students, professors and staffs to find the rooms and locations.
+                     A simple app, easy to use.
+                     Update every semester
+                     
+                     Google map
+                     MET Museum map
+                     
+                     The app is only used at PaceU and by people related with PaceU
+                     
+                     Risk,
+                     I am very busy this semester, may have no enough time to finish it.
+                     
+                     some new functions will be add to app such as 2rd hand book sell/buy, online date. 
+                     
 
-**Calendar**         finish all map detection in Oct; finish all codes in Nov; test and publish before Dec 10.
+**Calendar**         finish all map detection in Oct; finish all codes in Nov; finish all testing/debug, and publish before Dec 10.
 
-**Product Backlog**  1.map detection
-                     2.codes
-                     3.testing
-                     4 publish
+**Product Backlog**  1.map detection/hand drawing.
+                     2.codes, linked all maps together.
+                     3.testing/debuging.
+                     4 publish.
 
 **Architecture & Design**  simple andriond app
                           
