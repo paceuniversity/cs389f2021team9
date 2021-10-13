@@ -3,7 +3,7 @@
 **App name** Pace Map v1.0
 
 **Team** 9   Jiayue Ma (only member)
-             https://github.com/JiayueMa/cs389/tree/main/project
+             
 
 **App description**  A detail map at Pace University (NYC)
 
@@ -11,23 +11,25 @@
                      A simple app, easy to use.
                      Update every semester
                      
-                     Google map
-                     MET Museum map
-                     
+                     similar app
+                      -Google map
+                      -MET Museum map
+                      -bing map
+                      
                      The app is only used at PaceU and by people related with PaceU
                      
                      Risk,
                      I am very busy this semester, may have no enough time to finish it.
+                     I am lack of app developing experience. The app v1.0 may contain of many bugs.
                      
-                     some new functions will be add to app such as 2rd hand book sell/buy, online date. 
-                     
+                     some new functions will be add to app such as 2rd hand book sell/buy, online dating.            
 
-**Calendar**         finish all map detection in Oct; finish all codes in Nov; finish all testing/debug, and publish before Dec 10.
+**Calendar**         Finish all map detection in Oct; 
+                     Finish all codes in Nov; 
+                     Testing/debug before Dec 1st - 9th
+                     Final publish on Dec 10th.
 
-**Product Backlog**  1.map detection/hand drawing.
-                     2.codes, linked all maps together.
-                     3.testing/debuging.
-                     4 publish.
+**Product Backlog**  https://docs.google.com/spreadsheets/d/1Fm4oHzw9JUkdCT5MIxv_RyJffuGOSnKcmw6Z6oe22VE/edit?usp=sharing
 
 **Architecture & Design**  simple andriond app
                           
@@ -67,4 +69,4 @@
                        jm17803n@pace.edu
                        
 
-**Tools**             Android Studio, Java
+**Tools**             Android Studio, Java, git
