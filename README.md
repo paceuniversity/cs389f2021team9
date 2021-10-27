@@ -45,6 +45,7 @@
 * Spring retrospective  First demo
 
 **Sprint 2**
+
 Sprint Planning
 •	What is your Sprint Goal?
 o	Number of User Stories you will implement during the Sprint
