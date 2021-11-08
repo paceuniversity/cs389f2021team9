@@ -38,10 +38,12 @@
                     A index page linked to room details    
 
 **Sprint 1**
-
+  
 * Sprint planning       visit all rooms in campus before 20 Oct. Put all details into the map before 30 Oct
-* Scrums                weekly pushing and checking
-* Sprint demo - video and apk (or equivalent) App main page and all map pics.
+  maps sketch https://docs.google.com/spreadsheets/d/1GI0GTel3zjaD2pslbsZh1XkGWZDy-3DzmnO6gBIz54I/edit?usp=sharing
+* Scrums  weekly pushing and checking
+* Sprint demo - video and apk (or equivalent) 
+*          link the App main page and all map pics.  11/8
 * Spring retrospective  First demo
 
 **Sprint 2**
