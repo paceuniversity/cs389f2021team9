@@ -57,7 +57,8 @@
   
 * Scrums weekly pushing and checking
     
-* Sprint demo - video and apk (Ready)
+* Sprint demo 
+    video and apk (Ready)
     see demo1 docs
 * Spring retrospective  
     see demo1 docs
@@ -69,17 +70,16 @@ US1	Map View	      F	    As a user I should be able to visit all maps as on app 
 
 US2	Index View	    F		  As a user I should be able to find rooms by index "a ~z" so that when I can easily find the place when I already know the name of the place.
 
-US3	Update/inquire	NF		As a user I can use a simple click to update the maps in my apps so that the maps in my phone will be always new.
-
 US11 Search Function	F 	As a user, I should be able to use search function so that I can easily find the place.
 
 US12 Schools View		  F   As a user I should be able to find rooms by "school" so that when I can easily find the high frequence place regarding my school or major.
 
-US9	Database	NF		As a developer, I should be able to creat a datebase as a cerntain structure as "RoomName - Picture - LocationDetail" so that when I can make the activities link with the database to show the contents.
+US9	Database	NF		As a developer, I should be able to creat a datebase as a cerntain structure as "RoomName - Picture - LocationDetail" so that I can make the activities link with the database to show the contents other than make too many pages.
 
 US14	Set Button On Maps	NF	As a user, I should be able to click the maps so that I can easily inquire the information on screen.
 
-
+other - to creat new Icon
+      - be sure the copyright issue
 
 * Scrums weekly pushing and checking
 
@@ -102,5 +102,4 @@ US14	Set Button On Maps	NF	As a user, I should be able to click the maps so that
 **Communications**     Jiayue Ma
                        jm17803n@pace.edu
                        
-
 **Tools**             Android Studio, Java, git
