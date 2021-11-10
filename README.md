@@ -51,41 +51,14 @@
 * Scrums weekly pushing and checking
 * Sprint demo - video and apk (READY) 
 * Spring retrospective  First demo
-* 
+
 **Sprint 2**
 
-Sprint Planning
-•	What is your Sprint Goal?
-o	Number of User Stories you will implement during the Sprint
-    1, 2
-o	List of User Stories you will implement during the Sprint
-      Demo, main screen, art decoration and the details of the map  
-o	Label each story of the Product Backlog with the Sprint number label
 
-2 weeks x 1 person x 10 hours = 20 hours
-•	Tasks
-o	Decompose each User Story into tasks 
-This is easy. My app is too simple. 
-
-o	Assign each task to a team member
-I will do all tasks because I am the only member.
-o	Estimate the amount of time for each task
-Total hours should be 100. Maps will be 10 hours; Interface modification 10 hours; coding will be 70 hours; debug 10 hours.
-
-o	Every student should plan for 16 hours of work minimum for a spring
-I will do everything. I am the only member
-
-* Sprint planning       20 Nov, finish most codes and most functions. 
-* Scrums                weekly pushing and checking
-* Sprint demo - video and apk (or equivalent) A debug apk with most functions. let other people to help test
-* Spring retrospective  Second demo
 
 **Sprint 3** 
 
-* Sprint planning      10 Dec finish everything. finish all testing and debug
-* Scrums               weekly pushing and checking 
-* Sprint demo - video and apk (or equivalent)  
-* Spring retrospective
+
 
 **Final presentation** 10 Dec
 
