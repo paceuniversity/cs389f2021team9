@@ -40,7 +40,7 @@
 **Sprint 1**
   
 * Sprint planning 
-
+  
   US13 Map collection Done 
   
   US4  main struction Done
@@ -49,15 +49,18 @@
   
   Android study. Done
   
-  link the App main page and all map pics NOT DONE
+  linked the App main page and all map pics (I try to use a new data structure to replace these links)
   
   maps sketch https://docs.google.com/spreadsheets/d/1GI0GTel3zjaD2pslbsZh1XkGWZDy-3DzmnO6gBIz54I/edit?usp=sharing
   
+  Demo1 docs https://docs.google.com/document/d/17RQ6qriFObJcsXTtKLy24JggJSjmvKkb/edit?usp=sharing&ouid=112817890154038323889&rtpof=true&sd=true
+  
 * Scrums weekly pushing and checking
-* 
+    
 * Sprint demo - video and apk (Ready)
-* 
-* Spring retrospective  (Ready)
+    see demo1 docs
+* Spring retrospective  
+    see demo1 docs
 **Sprint 2**
 
 
