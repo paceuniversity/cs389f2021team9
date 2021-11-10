@@ -70,16 +70,20 @@ US1	Map View	      F	    As a user I should be able to visit all maps as on app 
 
 US2	Index View	    F		  As a user I should be able to find rooms by index "a ~z" so that when I can easily find the place when I already know the name of the place.
 
+US8	Secret	F		As a developer, I should be able to block but mark the restrict area or private area to users so that users will not go to the wrong place accidently
+
+US9	Database	NF		As a developer, I should be able to creat a datebase as a cerntain structure as "RoomName - Picture - LocationDetail" so that I can make the activities link with the database to show the contents other than make too many pages.
+
+US10	Main Gates Pics	NF	As a user, I should be able to see the gate pic of the location from app so that user can make sure they arrive at the right place.
+
 US11 Search Function	F 	As a user, I should be able to use search function so that I can easily find the place.
 
 US12 Schools View		  F   As a user I should be able to find rooms by "school" so that when I can easily find the high frequence place regarding my school or major.
 
-US9	Database	NF		As a developer, I should be able to creat a datebase as a cerntain structure as "RoomName - Picture - LocationDetail" so that I can make the activities link with the database to show the contents other than make too many pages.
-
 US14	Set Button On Maps	NF	As a user, I should be able to click the maps so that I can easily inquire the information on screen.
 
-other - to creat new Icon
-      - be sure the copyright issue
+Other - Creat a new Icon
+      - Be sure avoid the copyright issue
 
 * Scrums weekly pushing and checking
 
