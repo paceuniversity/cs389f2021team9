@@ -7,22 +7,7 @@
 
 **App description**  A detail map at Pace University (NYC)
 
-**Idea Proposal**    For students, professors and staffs to find the rooms and locations.
-                     A simple app, easy to use.
-                     Update every semester
-                     
-                     similar app
-                      -Google map
-                      -MET Museum map
-                      -bing map
-                      
-                     The app is only used at PaceU and by people related with PaceU
-                     
-                     Risk,
-                     I am very busy this semester, may have no enough time to finish it.
-                     I am lack of app developing experience. The app v1.0 may contain of many bugs.
-                     
-                     some new functions will be add to app such as 2rd hand book sell/buy, online dating.            
+**Idea Proposal**   https://docs.google.com/document/d/1iKfXr7oRVCRF5Kqwl2EaNLZ0HGfHnQZ5/edit?usp=sharing&ouid=112817890154038323889&rtpof=true&sd=true           
 
 **Calendar**         Finish all map detection in Oct; 
                      Finish all codes in Nov; 
