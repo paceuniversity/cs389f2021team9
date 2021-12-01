@@ -69,7 +69,7 @@ Other - Creat a new Icon
       - Be sure avoid the copyright issue
 
 * Scrums weekly pushing and checking
-
+https://docs.google.com/document/d/1DHURC98zheZQVBKOa8Bv6giCZ7uPjGSuLIIG_YK3qfw/edit?usp=sharing
 * Sprint demo - video and apk 
 
 * Spring retrospective 
