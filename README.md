@@ -71,7 +71,7 @@ Other - Creat a new Icon
 * Scrums weekly pushing and checking
 https://docs.google.com/document/d/1DHURC98zheZQVBKOa8Bv6giCZ7uPjGSuLIIG_YK3qfw/edit?usp=sharing
 * Sprint demo - video and apk 
-
+See the team github folder
 * Spring retrospective 
 https://docs.google.com/document/d/1l0V4pHmITGlVa_XGIJetwNTl2iZAAuih/edit?usp=sharing&ouid=112817890154038323889&rtpof=true&sd=true
 
