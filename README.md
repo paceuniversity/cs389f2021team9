@@ -77,7 +77,7 @@ https://docs.google.com/document/d/1l0V4pHmITGlVa_XGIJetwNTl2iZAAuih/edit?usp=sh
 
 **Sprint 3** 
 
-
+Plan：https://docs.google.com/document/d/1nPodH_FQdk_8qwdX0i5BYL3uN1QVQBGU/edit?usp=sharing&ouid=112817890154038323889&rtpof=true&sd=true
 
 **Final presentation** 10 Dec
 
